@@ -1,0 +1,9 @@
+Building Poins
+
+See doc/readme-qt.rst for instructions on building Poins-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Poins.
+
+See doc/build-*.txt for instructions on building poinsd,
+the intended-for-services, no-graphical-interface, reference
+implementation of Poins.
